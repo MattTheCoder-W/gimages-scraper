@@ -3,7 +3,7 @@ Python scraping tool / package for downloading images from googla image search e
 
 ## ToDo
 
- - [ ] Create base package structure
+ - [x] Create base package structure
  - [ ] GImages class
    - [ ] WebDriver Manager
    - [ ] Query Search
